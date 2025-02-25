@@ -1,20 +1,28 @@
-# Git + GitHub As A Platform For Reproducible Research 
+# Data and Code Dumping Ground
 
-## Overview
-This repository sets out the skeleton of an organizational structure used for scientific research. It loosely follows what I have used for several of my research projects and I hope it inspires you to conduct your research in an open, reproducible, and honest manner.
+This is just the main page of my dissertation. See branches for other parts of my chapters.
 
-## How to Use
-To use this template for your research, fork this repository, change the name
-to something descriptive for your project, and adjust the licensing as you
-see fit.
+## Redliniing
+Everthing Redlining
+- methods
+- code
+- maps
 
-To use this repository for your own research, simply click "Use this template" 
-at the top of this page
+## Community Research
 
-> :warning: :warning: :warning: I wouldn't advise forking this repository. As you can only fork a given repository once, there is little utility in forking this repo if you hope to use it again in your future projects :warning: :warning: :warning:
+### Coyotl + Macehualli 
 
-Alternatively, you can clone the repository and restructure as necessary. Via 
-the command line,
+### Tongva Conservancy
+
+### Groundwork Somerville 
+
+## Misc. Projects 
+
+## Helpful Code Stolen From Others 
+
+
+
+## Template Taken from Griffen Chure
 
 ```
 > git clone git@github.com:gchure/reproducible_research
